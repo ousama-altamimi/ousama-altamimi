@@ -1,13 +1,16 @@
 # Hi there, I'm Osama! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousama-altamimi&show_icons=true&theme=tokyonight)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&show_icons=true&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousama-altamimi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
 
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+<br/>
 
-
-
+## Hi there, I'm Osama!
 
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
