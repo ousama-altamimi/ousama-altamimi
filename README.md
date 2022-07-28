@@ -24,7 +24,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-<code><img height="20" alt="html" src="./assets/html.png"></code> <code><img height="20" alt="css" src="./assets/css.png"></code> <code><img height="20" alt="javascript" src="./assets/javascript.png"></code>
+<code><img height="20" alt="html" src="./assets/html1.png"></code> <code><img height="20" alt="css" src="./assets/css1.png"></code> <code><img height="20" alt="javascript" src="./assets/javascript1.png"></code>
 
 
 
