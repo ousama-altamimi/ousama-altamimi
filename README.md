@@ -4,6 +4,58 @@
 <h3 align="center">Junior Software Developer</h3>
 
 <br/>
+<br/>
+
+<div align="center" valign="top">
+<img src="https://discord.c99.nl/widget/theme-1/768757998402928680.png">
+</div>
+
+<br/>
+
+<h2 align="center">🖥️ Programming Languages</h2>
+
+<div align="center">
+  <a href="https://github.com/ousama-altamimi">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+<img alt="HTML" src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26">
+<img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCfl7e6yFtA6hkV29JfIOoLw?label=YouTube" target="_blank"></a>
+  
+  
+  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+
+<br/>
 
 <img align="right" src="https://discord.c99.nl/widget/theme-3/768757998402928680.png">
 
