@@ -25,7 +25,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <code><img height="22" alt="html" src="./assets/html.png"></code> <code><img height="22" alt="javascript" src="./assets/javascript.png"></code> <code><img height="22" alt="css" src="./assets/css.png"></code>
-<FontAwesomeIcon icon="fa-brands fa-css3" />
+<i class="fa-brands fa-css3"></i>
 
 
 
