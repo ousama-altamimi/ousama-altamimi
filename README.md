@@ -33,7 +33,7 @@
 <div align="center">
 <a href="https://ousama.me">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousama-altamimi&theme=tokyonight&hide_border=false&&layout=compact"/></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&hide_border=false&&layout=compact"/></a>
 </div>
 
 <br/>
