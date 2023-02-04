@@ -1,4 +1,4 @@
-<img src="https://ousama.me/assets/images/avatar/1.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://ousama.me/assets/images/avatar/1.png" align="center">
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">, I'm Osama!</h1>
 <h3 align="center">Junior Software Developer</h3>
