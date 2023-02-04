@@ -39,9 +39,9 @@
 <br/>
 
 <div align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 <img alt="HTML" src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26">
 <img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6">
+<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
 </div>
 
 <br/>
