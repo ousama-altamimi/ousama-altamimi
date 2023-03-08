@@ -17,13 +17,13 @@
 <br/>
 
 <div align="center">
-<a href="https://ousama.me/twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://ousama.me/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://ousama.me/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://ousama.me/twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://ousama.me/instagram"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://ousama.me/tiktok"><img src="https://img.shields.io/badge/tiktok-063752?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="https://ousama.me/steam"><img src="https://img.shields.io/badge/steam-2580C3?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://link.ousama.me/twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://link.ousama.me/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://link.ousama.me/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://link.ousama.me/twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://link.ousama.me/instagram"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://link.ousama.me/tiktok"><img src="https://img.shields.io/badge/tiktok-063752?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+<a href="https://link.ousama.me/steam"><img src="https://img.shields.io/badge/steam-2580C3?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
 
 <br/>
