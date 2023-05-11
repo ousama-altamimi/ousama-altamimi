@@ -5,7 +5,7 @@
 
 <br/>
 
-<p align="center"><b>I am learning programming 🖥️ and English 📚 and I hope there will be something great in the future ⏰,<br/>you will always find me on <a href="https://ousama.me"><i>ousama.me</i>📍</a><br/>I also play a lot of video games 🎮.</b>
+<p align="center"><b>I am learning programming 🖥️ and English 📚 and I hope there will be something great in the future ⏰,<br/>you will always find me on <a href="https://ousama.dev"><i>ousama.dev</i>📍</a><br/>I also play a lot of video games 🎮.</b>
 
 <br/>
 <br/>
@@ -31,7 +31,7 @@
 <h2 align="center">🖥️ Programming Languages</h2>
 
 <div align="center">
-<a href="https://ousama.me">
+<a href="https://ousama.dev">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousama-altamimi&theme=tokyonight&hide_border=false&&layout=compact"/></a>
 </div>
