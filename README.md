@@ -32,7 +32,7 @@
 
 <div align="center">
 <a href="https://ousama.dev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
 </div>
 
 <br/>
