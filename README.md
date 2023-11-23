@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer)`**
 
 👋 Hello, I'm Osama. I'm on a continuous learning journey, currently focusing on programming and mastering the English language. I hope there's something great in the future ⏰.
-You can always find me at 📍 [ousama.dev][https://ousama.dev/], where I share my journey and projects. 🎮 In addition to that, I spend a lot of time playing video games. When I'm not learning programming or English, you'll likely find me immersed in various virtual worlds.
+You can always find me at 📍 [ousama.dev](https://ousama.dev/), where I share my journey and projects. 🎮 In addition to that, I spend a lot of time playing video games. When I'm not learning programming or English, you'll likely find me immersed in various virtual worlds.
 
 That's me – excited and committed to building a bright future! 🚀
 
