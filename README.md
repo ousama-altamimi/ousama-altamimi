@@ -7,26 +7,13 @@ You can always find me at 📍 [ousama.dev](https://ousama.dev/), where I share 
 
 That's me – excited and committed to building a bright future! 🚀
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,mysql,docker,postman,figma&perline=5)](https://skillicons.dev)
+
    <p align="left">
       <a href="https://url.ousama.dev/youtube"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCfl7e6yFtA6hkV29JfIOoLw?style=for-the-badge&logo=youtube&logoColor=white&label=SUBSCRIBE&labelColor=CE4630"/></a> 
       <a href="https://url.ousama.dev/discord"><img alt="discord online" title="Discord Online" src="https://img.shields.io/discord/699953441862320158?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=434cba&color=5865F2"/></a> 
       <a href="https://ousama.dev/"><img alt="website" title="WebSite" src="https://img.shields.io/badge/website-236ad3?style=for-the-badge&logo=aiohttp&labelColor=%232C5BB4"/></a>
    </p>
-
----
-
-### 🧰 Languages and Tools
-
-<img alt="JavaScript" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
-<img alt="HTML" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/html.svg" />
-<img alt="CSS" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/css.svg" />
-<img alt="Nodejs" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/nodejs.svg" />
-<img alt="Git" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/git.svg" />
-<img alt="MySQL" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/mysql.svg" />
-<img alt="Docker" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/docker.svg" />
-<img alt="Postman" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/postman.svg" />
-<img alt="Figma" align="left" width="35px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/figma.svg" />
-<br/>
 
 #
 
