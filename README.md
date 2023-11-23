@@ -16,7 +16,10 @@ That's me – excited and committed to building a bright future! 🚀
    </p>
 <br/>
 
-<h2 align="center">📊 Github Stats</h2>
+---
+
+<h3 align="center">📊 Github Stats</h3>
+<br/>
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
 
