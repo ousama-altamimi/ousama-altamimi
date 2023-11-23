@@ -17,7 +17,6 @@ That's me – excited and committed to building a bright future! 🚀
 
 ### 🧰 Languages and Tools
 
-
 <img alt="JavaScript" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
 <img alt="HTML" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/html.svg" />
 <img alt="CSS" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/css.svg" />
@@ -27,7 +26,6 @@ That's me – excited and committed to building a bright future! 🚀
 <img alt="Docker" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/docker.svg" />
 <img alt="Postman" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/postman.svg" />
 <img alt="Figma" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/figma.svg" />
-
 <br/>
 
 #
