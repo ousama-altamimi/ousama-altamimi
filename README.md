@@ -18,8 +18,8 @@ That's me – excited and committed to building a bright future! 🚀
 ### 🧰 Languages and Tools
 
 
-<img alt="JavaScript" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
-<img alt="HTML" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/html.svg" />
+<img alt="JavaScript" align="left" width="30px" style="padding-right:1px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
+<img alt="HTML" align="left" width="30px" style="padding-right:1px;" src="https://ousama.dev/assets/images/icons/html.svg" />
 <img alt="CSS" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/css.svg" />
 <img alt="Nodejs" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/nodejs.svg" />
 <img alt="Git" align="left" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/git.svg" />
