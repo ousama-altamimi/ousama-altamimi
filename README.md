@@ -14,17 +14,14 @@ That's me – excited and committed to building a bright future! 🚀
       <a href="https://url.ousama.dev/discord"><img alt="discord online" title="Discord Online" src="https://img.shields.io/discord/699953441862320158?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=434cba&color=5865F2"/></a> 
       <a href="https://ousama.dev/"><img alt="website" title="WebSite" src="https://img.shields.io/badge/website-236ad3?style=for-the-badge&logo=aiohttp&labelColor=%232C5BB4"/></a>
    </p>
+<br/>
 
-#
-
-<details>
-<summary><h3>📊 Github Stats</h3></summary>
+<h2 align="center">📊 Github Stats</h2>
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ousama-altamimi&theme=ayu-mirage&card_width=496&type=png" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=ousama-altamimi&theme=ayu-mirage&card_width=496&type=png" alt="GitHub Streak" /></a>
 </div>
-</details> 
 
 <br/>
 <br/>
