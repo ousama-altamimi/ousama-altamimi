@@ -17,7 +17,7 @@ That's me – excited and committed to building a bright future! 🚀
 
 ### 🧰 Languages and Tools
 
-<div align="left" width="300px">
+<div align="left" width="30px">
 <img alt="JavaScript" style="padding-right:15px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
 <img alt="HTML" style="padding-right:15px;" src="https://ousama.dev/assets/images/icons/html.svg" />
 <img alt="CSS" style="padding-right:15px;" src="https://ousama.dev/assets/images/icons/css.svg" />
