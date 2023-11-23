@@ -1,51 +1,46 @@
+# 🏄‍♂️ Osama AL-Tamimi
 
+**`Digital Craftsman (Developer)`**
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">, I'm Osama!</h1>
-<h3 align="center">Junior Software Developer</h3>
+👋 Hello, I'm Osama. I'm on a continuous learning journey, currently focusing on programming and mastering the English language. I hope there's something great in the future ⏰.
+You can always find me at 📍 [ousama.dev][https://ousama.dev/], where I share my journey and projects. 🎮 In addition to that, I spend a lot of time playing video games. When I'm not learning programming or English, you'll likely find me immersed in various virtual worlds.
 
-<br/>
+That's me – excited and committed to building a bright future! 🚀
 
-<p align="center"><b>I am learning programming 🖥️ and English 📚 and I hope there will be something great in the future ⏰,<br/>you will always find me on <a href="https://ousama.dev"><i>ousama.dev</i>📍</a><br/>I also play a lot of video games 🎮.</b>
+   <p align="left">
+      <a href="https://url.ousama.dev/youtube"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCfl7e6yFtA6hkV29JfIOoLw?style=for-the-badge&logo=youtube&logoColor=white&label=SUBSCRIBE&labelColor=CE4630"/></a> 
+      <a href="https://url.ousama.dev/discord"><img alt="discord online" title="Discord Online" src="https://img.shields.io/discord/699953441862320158?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=434cba&color=5865F2"/></a> 
+      <a href="https://ousama.dev/"><img alt="website" title="WebSite" src="https://img.shields.io/badge/website-236ad3?style=for-the-badge&logo=aiohttp&labelColor=%232C5BB4"/></a>
+   </p>
 
-<br/>
-<br/>
+---
 
-<div align="center" valign="top">
-<img src="https://discord.c99.nl/widget/theme-1/768757998402928680.png">
+### 🧰 Languages and Tools
+
+<div align="left">
+<img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/js.svg"/>
+<img alt="HTML" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/html.svg" />
+<img alt="CSS" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/css.svg" />
+<img alt="Nodejs" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/nodejs.svg" />
+<img alt="Git" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/git.svg" />
+<img alt="MySQL" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/mysql.svg" />
+<img alt="Docker" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/docker.svg" />
+<img alt="Postman" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/postman.svg" />
+<img alt="Figma" width="30px" style="padding-right:10px;" src="https://ousama.dev/assets/images/icons/figma.svg" />
 </div>
-
 <br/>
 
+#
+
+<details>
+<summary><h3>📊 Github Stats</h3></summary>
 <div align="center">
-<a href="https://url.ousama.dev/twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://url.ousama.dev/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://url.ousama.dev/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://url.ousama.dev/twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://url.ousama.dev/instagram"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://url.ousama.dev/tiktok"><img src="https://img.shields.io/badge/tiktok-063752?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="https://url.ousama.dev/steam"><img src="https://img.shields.io/badge/steam-2580C3?style=for-the-badge&logo=steam&logoColor=white"></a>
-</div>
-
-<br/>
-
-<h2 align="center">🖥️ Programming Languages</h2>
-
-<div align="center">
-<a href="https://ousama.dev">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
 </div>
+</details> 
 
 <br/>
-
+<br/>
 <div align="center">
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <p>In order to succeed, you must learn what you love and enjoy learning and thus achieve what you wish :heart:</p>
+  <p>In order to succeed, you must learn what you love and enjoy learning and thus achieve what you wish ❤️.</p>
 </div>
