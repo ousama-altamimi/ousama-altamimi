@@ -20,7 +20,7 @@ That's me – excited and committed to building a bright future! 🚀
 <h3 align="center">📊 Github Stats</h3>
 <br/>
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ousama-altamimi&theme=ayu-mirage&rank_icon=github&show_icons=true&include_all_commits=true"/>
 
 <img src="https://streak-stats.demolab.com?user=ousama-altamimi&theme=ayu-mirage&card_width=496&type=png" alt="GitHub Streak" /></a>
 </div>
