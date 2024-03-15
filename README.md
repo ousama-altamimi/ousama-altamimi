@@ -16,7 +16,7 @@ That's me – excited and committed to building a bright future! 🚀
    </p>
 
 ---
-
+<!--
 <h3 align="center">📊 Github Stats</h3>
 <br/>
 <div align="center">
@@ -26,7 +26,7 @@ That's me – excited and committed to building a bright future! 🚀
 </div>
 
 <br/>
-<br/>
+<br/> -->
 <div align="center">
   <p>In order to succeed, you must learn what you love and enjoy learning and thus achieve what you wish ❤️.</p>
 </div>
